@@ -1,0 +1,160 @@
+
+/* heading */
+.colored-section{
+    background-color:#54B435 ;
+    text-align: center;
+    font-family: "Bree serif", Serif;
+    padding:15% 7%;
+    
+}
+
+.white{
+   color: white; 
+} 
+
+.black{
+    color: black;
+}
+/* navbar */
+
+
+.nav-item{
+    padding: 0 18px;
+}
+.navbar navbar-expand-lg bg-body-tertiary {
+    padding: 0 0 4.5rem;
+    
+  }
+
+
+
+/* about */
+#About {
+    font-family: "Bree serif", Serif;
+}
+
+.green{
+    color: green;
+}
+.about{
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+#Aboutdark{
+    background-color: black;
+}
+hr{
+    width: 60%;
+    color: black;
+}
+.info-img{
+    width: 15%;
+    float: left;
+    padding-right: 10px;
+}
+
+.abouts{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/*consultants */
+  .bigconsultant-img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    padding: 2%;
+    object-fit: cover;
+  }
+
+  #consultants{
+    background-color: #82CD47;
+    padding: 7% 7%;
+    text-align: center;
+    font-family: "Bree serif", Serif;
+  }
+
+
+  /* contact us */
+
+#contact-us{
+    text-align: center;
+    padding: 7% 7%;
+    font-family: "Bree serif", Serif;
+}
+
+.contact-Icon{
+    color: #54B435;
+    padding: 50px 20px;
+}
+.contact-Icon:hover{
+    color: #82CD47;
+}
+
+a{
+  color: green;
+}
+
+
+
+
+/* Sign up */
+
+
+* {box-sizing: border-box}
+
+
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/*  hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/*  button */
+.registerbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+.links{
+  text-decoration: none;
+  color: green;
+}
+
+.links:hover{
+  background-color: red;
+}
+.signin {
+  text-align: center;
+}
